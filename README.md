@@ -1,4 +1,4 @@
-# mApp Latyout
+# App Latyout
 
 Sistema desenvolvido como atividade vinculada ao módulo 2 do curso Desenvolvimento Web
 
